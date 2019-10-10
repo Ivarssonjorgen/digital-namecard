@@ -139,12 +139,12 @@ img.icon-pic {
 	height: 8%;
 }
 
-.bg-color-grey {
+.bg-color-header {
 	/* background-color: #F2F2F2; */
 	background-color: #2b4864;
 }
 
-.bg-color-white {
+.bg-color-background {
 	background-color: white;
 }
 
