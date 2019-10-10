@@ -39,6 +39,11 @@ img.profile-pic {
 	border-radius: 50%;
 }
 
+img.profile-pic {
+	height: 30%;
+	width: 30%;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
