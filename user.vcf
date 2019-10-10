@@ -11,5 +11,7 @@ item1.ADR;type=WORK;type=pref:;;Johan Bures väg 16\n90187;;;Umeå;Sweden
 item1.X-ABADR:se
 item2.URL;type=pref:www.umu.se/en/staff/jorgen-ivarsson/
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:www.linkedin.com/in/jorgenivarsson
+item3.X-ABLabel:_$!<SocialMedia>!$_
 SOCIALPROFILE;type=linkedin:www.linkedin.com/in/jorgenivarsson
 END:VCARD
