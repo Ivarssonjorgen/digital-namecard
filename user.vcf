@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:jorgen.ivarsson@umu.se
 TEL;type=WORK;type=VOICE:+46 90786 74 48
 item1.ADR;type=WORK;type=pref:;;Johan Bures väg 16\n90187;;;Umeå;Sweden
 item1.X-ABADR:se
-item2.URL;type=pref:www.umu.se
+item2.URL;type=pref:www.umu.se/en/staff/jorgen-ivarsson/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
